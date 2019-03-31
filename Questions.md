@@ -13,13 +13,15 @@ A dev comes to you and insists that a custom rolled service needs to be used, bu
 What are the pros and cons of using containers over VMs?
 
 Explain how these prompts differ
+```
 pubsub-nbg1-1 ~ #
 pubsub-nbg1-1 /var/spool/mail/ $
-
+```
 
 What does this do, if it is a directory? If it is a file?
+```
 chmod 750 foo
-
+```
 
 A disk is complaining that is it full, but df shows that it is only 78% full, what reasons could explain this?
 
